@@ -1,0 +1,22 @@
+body{
+    background-image: url(./images/mountains-morning-snow-rock-mountain-landscape.png) !important;
+     /* width: 100% !important;
+    height: 100vh !important; */
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    height: 100vh !important;
+}
+.btnn{
+    border-radius: 50px;
+padding: 10px 20px;
+border: none;
+color: black !important;
+font-size: 30px;
+}
+.back{
+    background: none !important;
+    color: white !important;
+}
+.disp{
+    border-bottom: 1px solid white !important;
+}
